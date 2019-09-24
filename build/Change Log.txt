@@ -1,0 +1,4 @@
+1.0.0 - Base version
+1.1.0 - Changed names of a few thing. Now 12th grade has lesson hours. The transcripts will get approved again?
+1.1.1 - IB years fixed (was 2016-2018, now 2017-2019)
+1.1.2 - Added IB total class hours
